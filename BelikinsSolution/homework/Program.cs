@@ -1,19 +1,12 @@
 using System;
-using System.Runtime.Remoting.Messaging;
 
 namespace homework
 {
     class Program
     {
-        private const int MoreThanByte = 256;
-   
-
     static void Main(string[] args) {
         Zadanie1();
         Console.ReadKey();
-
-
-
     }
 
     private static void Zadanie1()
@@ -36,7 +29,5 @@ namespace homework
             double result3 = ((x * y) + (y * z)) / Math.Pow(z, 3);
             Console.WriteLine("\r\nThird expression result: {0}", result3);
         }
-
     }
-
 }

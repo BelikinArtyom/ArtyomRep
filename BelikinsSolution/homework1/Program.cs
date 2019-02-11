@@ -1,18 +1,13 @@
 using System;
-using System.Runtime.Remoting.Messaging;
 
 namespace homework
 {
     class Program
     {
-        private const int MoreThanByte = 256;
-
-
         static void Main(string[] args)
         {
             Zadanie2();
             Console.ReadKey();
-
         }
 
         private static void Zadanie2()

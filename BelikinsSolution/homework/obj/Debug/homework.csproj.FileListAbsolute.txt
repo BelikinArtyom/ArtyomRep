@@ -4,3 +4,4 @@ C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework\bin\Debug\homewor
 C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework\bin\Debug\homework.pdb
 C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework\obj\Debug\homework.exe
 C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework\obj\Debug\homework.pdb
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework\obj\Debug\homework.csprojAssemblyReference.cache
