@@ -1,0 +1,7 @@
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\bin\Debug\homework3.exe.config
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\bin\Debug\homework3.exe
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\bin\Debug\homework3.pdb
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\obj\Debug\homework3.csprojAssemblyReference.cache
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\obj\Debug\homework3.exe
+C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework3\obj\Debug\homework3.pdb
