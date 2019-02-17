@@ -1,1 +1,25 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
+/BelikinsSolution/.vs/BelikinsSolution/v15/Server/sqlite3/db.lock
+/BelikinsSolution/.vs/BelikinsSolution/v15/Server/sqlite3/storage.ide
+/BelikinsSolution/.vs/BelikinsSolution/v15/Server/sqlite3/storage.ide-shm
+/BelikinsSolution/.vs/BelikinsSolution/v15/Server/sqlite3/storage.ide-wal
+/.vs/ProjectSettings.json
+/BelikinsSolution/homework3/obj/Release/homework3.csproj.CoreCompileInputs.cache
+/BelikinsSolution/homework3/obj/Release
+/BelikinsSolution/homework2/obj/Release/homework2.csproj.CoreCompileInputs.cache
+/BelikinsSolution/homework2/obj/Release
+/BelikinsSolution/homework1/obj/Release/homework1.csproj.CoreCompileInputs.cache
+/BelikinsSolution/homework1/obj/Release
+/BelikinsSolution/homework1/obj/Debug/homework1.csprojAssemblyReference.cache
+/BelikinsSolution/homework1/obj/Debug
+/BelikinsSolution/homework1/obj
+/BelikinsSolution/homework/obj/Release/homework.csproj.CoreCompileInputs.cache
+/BelikinsSolution/homework/obj/Release
+/BelikinsSolution/homework/obj/Debug/homework.csprojAssemblyReference.cache
+/BelikinsSolution/homework/obj/Debug
+/BelikinsSolution/homework/obj
+/BelikinsSolution/.vs/BelikinsSolution/v15/.suo
+/BelikinsSolution/.vs/BelikinsSolution/v15
+/BelikinsSolution
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
