@@ -1,0 +1,6 @@
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\bin\Debug\lesson2.exe.config
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\bin\Debug\lesson2.exe
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\bin\Debug\lesson2.pdb
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\obj\Debug\lesson2.exe
+C:\Users\Cassini\Documents\ArtyomRep\lesson2\lesson2\obj\Debug\lesson2.pdb
