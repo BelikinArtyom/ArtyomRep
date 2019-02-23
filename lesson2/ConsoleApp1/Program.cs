@@ -6,23 +6,39 @@ namespace Authentification
     {
         static void Main()
         {
+            int counter = 0;
+            string login;
+            string password;
 
-            Console.WriteLine("Please provide login");
-            string login = Console.ReadLine();
-
-            Console.WriteLine("Please provide password");
-            string password = Console.ReadLine();
-
-            if (login != ("Admin") && password != ("qwerty"))
+            do
             {
-                Console.WriteLine("Incorrect credentials");
+                Console.WriteLine("Please provide login");
+                login = Console.ReadLine();
+
+                Console.WriteLine("Please provide password");
+                password = Console.ReadLine();
+
+                if (login != ("Admin") && password != ("qwerty"))
+                {
+                    Console.WriteLine("Incorrect credentials");
+                    }
+                else
+                {
+                    Console.WriteLine("Greetins Admin");
+                    Console.ReadKey();
+                    break;
+                }
+
+                counter++;
+            }
+            while (counter < 3);
+
+            if (counter == 3)
+            {
+                Console.WriteLine("You have exceeded maximum number of attempts");
                 Console.ReadKey();
             }
-            else
-            {
-                Console.WriteLine("Greetins Admin");
-                Console.ReadKey();
-            }
+
         }
     }
 }
