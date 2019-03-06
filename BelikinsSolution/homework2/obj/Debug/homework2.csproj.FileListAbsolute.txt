@@ -1,7 +1,0 @@
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\bin\Debug\homework2.exe.config
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\bin\Debug\homework2.exe
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\bin\Debug\homework2.pdb
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\obj\Debug\homework2.exe
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework2\obj\Debug\homework2.pdb

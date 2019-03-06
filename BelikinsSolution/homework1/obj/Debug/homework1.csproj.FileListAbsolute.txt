@@ -1,6 +1,0 @@
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\bin\Debug\homework1.exe.config
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\bin\Debug\homework1.exe
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\bin\Debug\homework1.pdb
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\obj\Debug\homework1.exe
-C:\Users\Cassini\Documents\ArtyomRep\BelikinsSolution\homework1\obj\Debug\homework1.pdb
